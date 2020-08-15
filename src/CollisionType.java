@@ -1,0 +1,6 @@
+
+public enum CollisionType
+{
+	NONE, TOP, BOTTOM, LEFT, RIGHT, PLAYER1PADDLE, PLAYER2PADDLE
+
+}
